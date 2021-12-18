@@ -39,5 +39,5 @@ Klik projectnya -> klik tombol run-> pilih run on servers -> maka otomatis terbu
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Kendala dalam pengerjaan
-- Tidak menemukan web hosting yang gratis untuk Java website dan MySQL database.
-- Mencoba menggunakan Herokuapp namun berbayar jika menggunakan database MySQL(gratis untuk PostgreSQL)
+- Masih mendapatkan error message sehingga website tidak bisa dijalankan
+- Kesulitan menemukan web hosting yang gratis yang dapat mensupport MySQL untuk databasenya
